@@ -71,3 +71,6 @@ It reflects hands-on experience in:
 - Applied best practices for layout, formatting, and color themes.
 - Validated KPI definitions with business logic.
 
+**Screenshots / Demos
+Show what the dashboard looks like.  - ![Dashboard Preview].(https://github.com/omkarshinde9432-dot/Power-BI-project/blob/main/Operational%20KPI%20Insights%20ss.png).
+
